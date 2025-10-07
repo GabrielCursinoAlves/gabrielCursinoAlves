@@ -4,7 +4,12 @@
 
 Me chamo Gabriel Cursino Alves, tenho 31 anos e sou de São José dos Campos - São Paulo.
 
-Minha trajetória na área de tecnologia começou ainda cedo. Concluí o Ensino Médio no colégio Major Aviador José Mariotto Ferreira (CTA), em seguida, cursei Técnico em Informática pela UNIVAP com duração de 3 anos. Recentemente, finalizei o curso superior de Análise e Desenvolvimento de Sistemas pela UNIFEOB, com duração de 2 anos e 6 meses.
+Minha trajetória na área de tecnologia começou ainda cedo. 
+Concluí o Ensino Médio no colégio Major Aviador José Mariotto Ferreira 
+(CTA), em seguida, cursei Técnico em Informática pela UNIVAP com 
+duração de 3 anos. Recentemente, finalizei o curso superior de Análise 
+e Desenvolvimento de Sistemas pela UNIFEOB, com duração de 
+2 anos e 6 meses.
 
 Sou apaixonado por tecnologia e estou em constante busca por evolução profissional. Gosto de aprender novos conceitos, explorar ferramentas modernas e criar meus próprios projetos — muitos deles Open Source, com o intuito de compartilhar conhecimento e colaborar com a comunidade.
 
@@ -106,7 +111,7 @@ Meu foco é crescer tecnicamente e, ao mesmo tempo, contribuir positivamente par
 <img 
     align="left" 
     alt="Docker" 
-    title="Git"
+    title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
