@@ -1,9 +1,9 @@
 <img 
     align="center" 
-    alt="HTML"
-    title="HTML" 
+    alt="Animation"
+    title="Animation" 
     width="100%" 
-    height="50%"
+    height="auto"
     style="padding-right: 10px;" 
     src="./assets/code-animation.gif" 
 />
