@@ -1,3 +1,13 @@
+<img 
+    align="center" 
+    alt="HTML"
+    title="HTML" 
+    width="100%" 
+    height="100%"
+    style="padding-right: 10px;" 
+    src="./assets/code-animation.gif" 
+/>
+
 # 👨‍💻 Gabriel Cursino Alves
 
 **`Desenvolvedor Backend`**
