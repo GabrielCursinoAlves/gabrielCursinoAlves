@@ -3,7 +3,7 @@
     alt="HTML"
     title="HTML" 
     width="100%" 
-    height="100%"
+    height="50%"
     style="padding-right: 10px;" 
     src="./assets/code-animation.gif" 
 />
