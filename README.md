@@ -23,7 +23,7 @@ e Desenvolvimento de Sistemas pela UNIFEOB, com duração de
 
 Sou apaixonado por tecnologia e estou em constante busca por evolução profissional. Gosto de aprender novos conceitos, explorar ferramentas modernas e criar meus próprios projetos — muitos deles Open Source, com o intuito de compartilhar conhecimento e colaborar com a comunidade.
 
-Meu foco é crescer tecnicamente e, ao mesmo tempo, contribuir positivamente para o ecossistema de desenvolvedores, seja através de código, experiências práticas ou boas práticas de desenvolvimento que adquiri ao longo da minha jornada.
+Meu foco é crescer tecnicamente e, ao mesmo tempo, contribuir positivamente para o ecossistema de desenvolvedores, seja através de código, experiências práticas ou boas práticas de desenvolvimento que adquiri ao longo da minha jornada. 
 
 <p align="left">
     <a href="malito:ga72147@gmail.com">
