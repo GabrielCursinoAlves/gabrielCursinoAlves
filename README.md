@@ -33,6 +33,13 @@ Meu foco é crescer tecnicamente e, ao mesmo tempo, contribuir positivamente par
             src="https://custom-icon-badges.demolab.com/badge/-ga72147@gmail.com-%23D11A21?logo=mail&logoColor=white&style=for-the-badge"
         />
     </a>
+    <a href="https://www.linkedin.com/in/gabriel-cursino-alves-7059a6b0/" target="_blank">
+        <img 
+            alt="Linkedin" 
+            title="Entre em contato" 
+            src="https://custom-icon-badges.demolab.com/badge/-gabriel%20Cursino%20Alves-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"
+        />
+    </a>
 </p>
 
 ---
