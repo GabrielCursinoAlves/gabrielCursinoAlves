@@ -26,7 +26,7 @@ Sou apaixonado por tecnologia e estou em constante busca por evolução profissi
 Meu foco é crescer tecnicamente e, ao mesmo tempo, contribuir positivamente para o ecossistema de desenvolvedores, seja através de código, experiências práticas ou boas práticas de desenvolvimento que adquiri ao longo da minha jornada. 
 
 <p align="left">
-    <a href="malito:ga72147@gmail.com">
+    <a href="mailto:ga72147@gmail.com">
         <img 
             alt="Mail" 
             title="Entre em contato" 
